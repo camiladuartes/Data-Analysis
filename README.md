@@ -1,2 +1,3 @@
 # DataAnalysis
-Data analysis School Project to find profitable app profiles for the App Store and Google Play markets in Python
+
+Data analysis School Project to find profitable app profiles for the App Store and Google Play markets in Python. The first dive into Data Science.
